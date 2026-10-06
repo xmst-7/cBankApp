@@ -389,12 +389,12 @@ This is an **academic prototype**, not production banking software.
 
 ## 👥 Credits
 
-**Author:** Mohammed MOUSTAFID
-**Module lead:** Pr. Sanaa EL FILALI
-**Supervisor:** Mlle. Hanane ABOURIFA
-**Institution:** Faculté des Sciences Ben M'sick, Université Hassan II de Casablanca, Département de Mathématiques et Informatique
-**Academic year:** 2024/2025
+**Author:** Mohammed MOUSTAFID  
+**Module lead:** Pr. Sanaa EL FILALI  
+**Supervisor:** Mlle. Hanane ABOURIFA  
+**Institution:** Faculté des Sciences Ben M'sick, Université Hassan II de Casablanca, Département de Mathématiques et Informatique  
+**Academic year:** 2024/2025  
 
-Feedback, issues and suggestions are welcome. This project marked a step in my learning journey. ⭐ If it helped you, consider starring the repo!
+Feedback, issues and suggestions are welcome. This project marked a step in my learning journey. ⭐ If it helped you, consider starring the repo!  
 
 ---
