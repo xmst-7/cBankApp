@@ -396,3 +396,5 @@ This is an **academic prototype**, not production banking software.
 **Academic year:** 2024/2025
 
 Feedback, issues and suggestions are welcome. This project marked a step in my learning journey. ⭐ If it helped you, consider starring the repo!
+
+---
